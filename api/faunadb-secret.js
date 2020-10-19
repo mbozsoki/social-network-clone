@@ -1,0 +1,1 @@
+export const faunadbSecret = 'fnAD4jAC0wACAUpTERdVhPQ0gUbSjLYOGcECp9-2';
